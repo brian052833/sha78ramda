@@ -1,7 +1,6 @@
 // EE231000 Lab07 Matrix Determinant
 // 109061112, 徐遠哲
 // Date: 2020/11/16
-// ****************************************
 
 #include <stdio.h>
 #if !defined(N)
